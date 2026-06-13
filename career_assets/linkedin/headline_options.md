@@ -1,11 +1,11 @@
 # LinkedIn Headline Options
 
-1. Financial & Energy Risk Data Analyst | Python, SQL, pandas, Power BI | Commodity, Insurance & Operations Analytics
+1. Financial & Energy Risk Data Analyst | Python, SQL, Power BI | Commodity, Insurance, Pension & Operations Analytics
 
-2. Risk Reporting Analyst | Financial Markets & Energy Operations Background | Python, SQL, Power BI Dashboards
+2. Risk Reporting Analyst | Financial Markets & Energy Operations Background | Python, SQL, pandas, Power BI
 
-3. Financial Data Analyst | Commodity Risk, Insurance Analytics & Energy Operations | Python + SQL + Power BI
+3. BI Analyst - Finance & Operations | Commodity Hedge Risk, Project Controls, Loss Ratio & Investment Dashboards
 
-4. BI Analyst - Finance & Operations | Hedge Risk, Loss Ratio, Project Controls | Remote Canada/Global
+4. Financial Data Analyst | Risk Reporting, Commodity Exposure, Insurance Analytics & Pension Investment Risk
 
-5. Financial Markets & Risk Professional | Data Analytics Portfolio in Commodity, Energy, Insurance & Investments
+5. Energy & Financial Risk Data Analyst | Petroleum Operations + Financial Markets + Power BI Portfolio

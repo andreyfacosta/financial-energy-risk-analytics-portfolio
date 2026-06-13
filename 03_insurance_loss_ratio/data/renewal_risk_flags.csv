@@ -1,0 +1,13 @@
+employer_id,employer_name,industry,region_name,earned_premium_cad,incurred_claims_cad,loss_ratio,profitability_cad,claim_count,claims_per_member_cad,renewal_risk,recommended_action
+EMP001,Prairie Manufacturing,Manufacturing,Prairies,1191336.27,295659.24,0.2482,895677.03,804.0,756.9146,Low,Standard renewal
+EMP002,Northern Retail Group,Retail,Ontario,1348278.77,403986.28,0.2996,944292.49,1012.0,900.8056,Low,Standard renewal
+EMP003,West Energy Services,Energy,Alberta,1437656.17,663312.29,0.4614,774343.88,714.0,1127.1237,Medium,Monitor experience trend
+EMP004,Pacific Logistics,Transportation,British Columbia,965523.86,411257.43,0.4259,554266.43,480.0,876.6219,Low,Standard renewal
+EMP005,Lakeview Schools,Education,Ontario,760411.21,57217.62,0.0752,703193.59,429.0,359.5452,Low,Standard renewal
+EMP006,Central Ag Foods,Food processing,Prairies,1943560.86,404138.5,0.2079,1539422.36,983.0,918.0329,Medium,Monitor experience trend
+EMP007,Atlantic Care Homes,Healthcare,Atlantic,1038065.37,298163.84,0.2872,739901.53,653.0,1012.823,Medium,Monitor experience trend
+EMP008,Metro Software Co,Technology,Ontario,2332763.27,341692.52,0.1465,1991070.75,1444.0,841.2043,Low,Standard renewal
+EMP009,Foothills Construction,Construction,Alberta,1016359.74,240483.89,0.2366,775875.85,672.0,753.0156,Low,Standard renewal
+EMP010,Harbour Hospitality,Hospitality,British Columbia,699833.22,136310.83,0.1948,563522.39,404.0,726.7758,Low,Standard renewal
+EMP011,Winnipeg Services,Professional services,Prairies,709098.66,105243.4,0.1484,603855.26,351.0,632.409,Low,Standard renewal
+EMP012,Capital Distribution,Wholesale,Ontario,1673212.74,340098.35,0.2033,1333114.39,1108.0,704.7453,Low,Standard renewal

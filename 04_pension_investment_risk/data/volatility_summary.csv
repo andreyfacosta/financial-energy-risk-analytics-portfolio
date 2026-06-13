@@ -1,0 +1,5 @@
+portfolio_id,portfolio_name,risk_profile,volatility_30d_pct,annualized_volatility_pct,risk_flag
+PF001,Conservative Income,Conservative,0.002622,0.043296,Normal
+PF002,Balanced Growth,Balanced,0.004423,0.067043,Normal
+PF003,Growth Plus,Growth,0.00541,0.081647,Normal
+PF004,Retirement 2045,Target Date,0.004608,0.070101,Normal

@@ -1,0 +1,5 @@
+portfolio_id,portfolio_name,risk_profile,max_drawdown_pct,current_drawdown_pct,peak_value_cad,trough_value_cad,latest_value_cad
+PF001,Conservative Income,Conservative,-0.025365,-0.024163,22220339.71,21656718.58,21683426.97
+PF002,Balanced Growth,Balanced,-0.039326,-0.029619,50755269.01,47608152.17,49251969.07
+PF003,Growth Plus,Growth,-0.053596,-0.032567,28515143.32,26459824.15,27586482.99
+PF004,Retirement 2045,Target Date,-0.046892,-0.028571,34089828.41,31902636.67,33115846.35

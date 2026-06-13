@@ -1,0 +1,9 @@
+metric,value,notes
+Portfolio value CAD,131637725.38,Latest total portfolio value
+Average cumulative return,0.018257,Average latest cumulative return
+Average active return,-0.005748,Average latest daily active return
+Max drawdown,-0.053596,Worst max drawdown across portfolios
+Average annualized volatility,0.065522,Average annualized volatility
+FX exposure CAD,72181703.72,Non-CAD exposure
+Annual contribution CAD,749398.79,Synthetic annual contribution flow
+Allocation drift flags,6.0,Asset classes outside drift tolerance

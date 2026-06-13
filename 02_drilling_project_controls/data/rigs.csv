@@ -1,0 +1,6 @@
+rig_id,rig_name,rig_type,horsepower,daily_rate_cad
+RIG001,Rig 12,Triple,1500,54000
+RIG002,Rig 18,Triple,1600,58000
+RIG003,Rig 23,Double,1200,42000
+RIG004,Rig 31,Triple,1700,61000
+RIG005,Rig 44,Double,1100,39000

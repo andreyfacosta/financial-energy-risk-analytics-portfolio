@@ -122,7 +122,7 @@ SQLite database:
    - Creates DAX measures from `powerbi/dax_measures.md`.
    - Builds six dashboard pages using `powerbi/powerbi_build_guide.md`.
 
-## Power BI Dashboard Pages
+## Power BI Pages
 
 1. Executive Summary
    - KPI cards, cumulative P&L, net open exposure, risk flags, and counterparty exceptions.

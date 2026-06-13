@@ -1,0 +1,9 @@
+metric,value,notes
+Earned premium CAD,15116100.14,Total earned premium
+Incurred claims CAD,3697564.19,Total incurred claims
+Paid claims CAD,3331654.42,Total paid claims
+Portfolio loss ratio,0.2446,Incurred claims divided by earned premium
+Profitability CAD,11418535.95,Earned premium minus incurred claims
+Claim count,9054.0,Total claim count
+Average claims severity CAD,2065.03,Average incurred claim severity by category
+High renewal risk employers,0.0,Employers with high renewal risk

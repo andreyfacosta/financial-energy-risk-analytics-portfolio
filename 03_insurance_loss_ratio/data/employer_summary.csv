@@ -1,0 +1,13 @@
+employer_id,employer_name,industry,region_name,earned_premium_cad,incurred_claims_cad,claim_count,avg_member_count,profitability_cad,loss_ratio,claims_per_member_cad,renewal_risk
+EMP001,Prairie Manufacturing,Manufacturing,Prairies,1191336.27,295659.24,804.0,390.6111,895677.03,0.2482,756.9146,Low
+EMP002,Northern Retail Group,Retail,Ontario,1348278.77,403986.28,1012.0,448.4722,944292.49,0.2996,900.8056,Low
+EMP003,West Energy Services,Energy,Alberta,1437656.17,663312.29,714.0,588.5,774343.88,0.4614,1127.1237,Medium
+EMP004,Pacific Logistics,Transportation,British Columbia,965523.86,411257.43,480.0,469.1389,554266.43,0.4259,876.6219,Low
+EMP005,Lakeview Schools,Education,Ontario,760411.21,57217.62,429.0,159.1389,703193.59,0.0752,359.5452,Low
+EMP006,Central Ag Foods,Food processing,Prairies,1943560.86,404138.5,983.0,440.2222,1539422.36,0.2079,918.0329,Medium
+EMP007,Atlantic Care Homes,Healthcare,Atlantic,1038065.37,298163.84,653.0,294.3889,739901.53,0.2872,1012.823,Medium
+EMP008,Metro Software Co,Technology,Ontario,2332763.27,341692.52,1444.0,406.1944,1991070.75,0.1465,841.2043,Low
+EMP009,Foothills Construction,Construction,Alberta,1016359.74,240483.89,672.0,319.3611,775875.85,0.2366,753.0156,Low
+EMP010,Harbour Hospitality,Hospitality,British Columbia,699833.22,136310.83,404.0,187.5556,563522.39,0.1948,726.7758,Low
+EMP011,Winnipeg Services,Professional services,Prairies,709098.66,105243.4,351.0,166.4167,603855.26,0.1484,632.409,Low
+EMP012,Capital Distribution,Wholesale,Ontario,1673212.74,340098.35,1108.0,482.5833,1333114.39,0.2033,704.7453,Low

@@ -1,0 +1,6 @@
+product_id,product_name,product_category,coverage_level,earned_premium_cad,incurred_claims_cad,member_count,claim_count,loss_ratio,premium_mix_pct
+PRD001,Core Health,Health,Core,4654523.99,416406.69,30252,3198.0,0.0895,0.3079
+PRD002,Enhanced Health,Health,Enhanced,3558329.71,214001.53,15886,1635.0,0.0601,0.2354
+PRD003,Dental Plus,Dental,Enhanced,4405131.44,2275610.3,50597,3996.0,0.5166,0.2914
+PRD004,Disability Protect,Disability,Core,1382054.11,527094.12,20810,193.0,0.3814,0.0914
+PRD005,Life Basic,Life,Core,1116060.89,264451.55,39148,32.0,0.237,0.0738

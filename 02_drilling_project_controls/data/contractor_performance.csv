@@ -1,0 +1,7 @@
+contractor_id,contractor_name,wells_supported,actual_cost_cad,npt_hours,avg_rig_utilization_pct,hse_incident_count,recordable_count,high_risk_days,contractor_performance_score
+CON001,Northstar Drilling Services,2,5877299.25,241.72,0.7785,5.0,0.0,0,-66.36
+CON002,Prairie Directional,2,5220438.91,308.83,0.737,2.0,0.0,0,-102.82
+CON003,Redline Fluids,1,2974827.12,162.74,0.7592,1.0,1.0,11,-114.6
+CON004,Summit Cementing,1,2817663.93,115.4,0.7561,5.0,3.0,1,-77.48
+CON005,FieldSafe Services,1,2766097.61,165.35,0.7658,2.0,0.0,6,-111.74
+CON006,Ironhorse Rentals,1,2616832.16,129.76,0.7495,2.0,1.0,0,-82.29

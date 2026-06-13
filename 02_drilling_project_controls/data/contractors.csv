@@ -1,0 +1,7 @@
+contractor_id,contractor_name,service_line,base_location,safety_rating
+CON001,Northstar Drilling Services,Drilling,Calgary,A
+CON002,Prairie Directional,Directional,Regina,B
+CON003,Redline Fluids,Fluids,Edmonton,A
+CON004,Summit Cementing,Cementing,Calgary,B
+CON005,FieldSafe Services,HSE,Winnipeg,A
+CON006,Ironhorse Rentals,Equipment,Estevan,B

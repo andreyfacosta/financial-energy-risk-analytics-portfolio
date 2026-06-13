@@ -1,0 +1,10 @@
+metric,value,notes
+AFE budget CAD,34081795.4,Total approved budget
+Actual cost CAD,22273158.98,Total actual cost to latest date
+Forecast final cost CAD,22273176.72,Progress-based forecast
+Forecast variance CAD,-11808618.68,Forecast final cost minus AFE
+Average cost variance %,-0.3314,Average well forecast variance percent
+Total NPT hours,1123.8,Non-productive time hours
+Average rig utilization %,0.7584,Productive hours divided by available hours
+HSE incident count,17.0,Total HSE events
+High risk wells,2.0,Wells with high project control risk

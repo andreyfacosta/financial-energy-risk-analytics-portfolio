@@ -1,0 +1,9 @@
+well_id,well_name,hse_incident_count,recordable_count,lost_time_count
+WELL001,Prairie Dawn 01,3.0,0.0,0.0
+WELL002,Red River 02,2.0,0.0,0.0
+WELL003,Foothills 03,1.0,1.0,0.0
+WELL004,Clearwater 04,5.0,3.0,1.0
+WELL005,Prairie North 05,2.0,0.0,0.0
+WELL006,Peace River 06,2.0,1.0,0.0
+WELL007,Northern Lights 07,2.0,0.0,0.0
+WELL008,Prairie West 08,0.0,0.0,0.0

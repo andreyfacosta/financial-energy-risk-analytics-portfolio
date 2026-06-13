@@ -1,0 +1,5 @@
+portfolio_id,portfolio_name,risk_profile,target_return_pct,base_currency
+PF001,Conservative Income,Conservative,0.035,CAD
+PF002,Balanced Growth,Balanced,0.055,CAD
+PF003,Growth Plus,Growth,0.07,CAD
+PF004,Retirement 2045,Target Date,0.06,CAD

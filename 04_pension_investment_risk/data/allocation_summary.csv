@@ -1,0 +1,32 @@
+as_of_date,portfolio_id,portfolio_name,risk_profile,asset_class_id,asset_class_name,asset_category,currency,market_value_cad,allocation_pct,target_allocation_pct,allocation_drift_pct,fx_exposure_cad,risk_flag
+2025-12-31,PF001,Conservative Income,Conservative,AC001,Canadian Equity,Equity,CAD,3152434.465794,0.145385,0.15,-0.004615,0.0,Within range
+2025-12-31,PF001,Conservative Income,Conservative,AC002,US Equity,Equity,USD,2475153.471087,0.11415,0.1,0.01415,2475153.471087,Within range
+2025-12-31,PF001,Conservative Income,Conservative,AC003,Global Equity,Equity,USD,1970602.458892,0.090881,0.08,0.010881,1970602.458892,Within range
+2025-12-31,PF001,Conservative Income,Conservative,AC004,Canadian Bonds,Fixed Income,CAD,7529764.702713,0.347259,0.42,-0.072741,0.0,High drift
+2025-12-31,PF001,Conservative Income,Conservative,AC005,Global Bonds,Fixed Income,USD,4414257.716821,0.203577,0.15,0.053577,4414257.716821,High drift
+2025-12-31,PF001,Conservative Income,Conservative,AC006,Real Assets,Alternatives,CAD,721383.382253,0.033269,0.05,-0.016731,0.0,Within range
+2025-12-31,PF001,Conservative Income,Conservative,AC007,Cash,Cash,CAD,1419830.776906,0.06548,0.05,0.01548,0.0,Within range
+2025-12-31,PF002,Balanced Growth,Balanced,AC001,Canadian Equity,Equity,CAD,10625082.210853,0.215729,0.22,-0.004271,0.0,Within range
+2025-12-31,PF002,Balanced Growth,Balanced,AC002,US Equity,Equity,USD,12146616.902706,0.246622,0.2,0.046622,12146616.902706,Watch
+2025-12-31,PF002,Balanced Growth,Balanced,AC003,Global Equity,Equity,USD,7196169.71673,0.146109,0.15,-0.003891,7196169.71673,Within range
+2025-12-31,PF002,Balanced Growth,Balanced,AC004,Canadian Bonds,Fixed Income,CAD,9127180.237324,0.185316,0.23,-0.044684,0.0,Watch
+2025-12-31,PF002,Balanced Growth,Balanced,AC005,Global Bonds,Fixed Income,USD,4881749.538576,0.099118,0.1,-0.000882,4881749.538576,Within range
+2025-12-31,PF002,Balanced Growth,Balanced,AC006,Real Assets,Alternatives,CAD,2140761.616954,0.043466,0.06,-0.016534,0.0,Within range
+2025-12-31,PF002,Balanced Growth,Balanced,AC007,Cash,Cash,CAD,903768.79805,0.01835,0.02,-0.00165,0.0,Within range
+2025-12-31,PF002,Balanced Growth,Balanced,AC008,European Equity,Equity,EUR,2230640.050385,0.04529,0.02,0.02529,2230640.050385,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC001,Canadian Equity,Equity,CAD,6528109.492131,0.236642,0.25,-0.013358,0.0,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC002,US Equity,Equity,USD,7654519.96277,0.277474,0.27,0.007474,7654519.96277,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC003,Global Equity,Equity,USD,6888232.805621,0.249696,0.22,0.029696,6888232.805621,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC004,Canadian Bonds,Fixed Income,CAD,2276832.901755,0.082534,0.08,0.002534,0.0,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC005,Global Bonds,Fixed Income,USD,1540798.140263,0.055853,0.05,0.005853,1540798.140263,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC006,Real Assets,Alternatives,CAD,1292130.398259,0.046839,0.06,-0.013161,0.0,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC007,Cash,Cash,CAD,279745.694825,0.010141,0.02,-0.009859,0.0,Within range
+2025-12-31,PF003,Growth Plus,Growth,AC008,European Equity,Equity,EUR,1126113.590841,0.040821,0.05,-0.009179,1126113.590841,Within range
+2025-12-31,PF004,Retirement 2045,Target Date,AC001,Canadian Equity,Equity,CAD,6882536.488381,0.207832,0.22,-0.012168,0.0,Within range
+2025-12-31,PF004,Retirement 2045,Target Date,AC002,US Equity,Equity,USD,7550964.682658,0.228017,0.22,0.008017,7550964.682658,Within range
+2025-12-31,PF004,Retirement 2045,Target Date,AC003,Global Equity,Equity,USD,6557080.881878,0.198004,0.18,0.018004,6557080.881878,Within range
+2025-12-31,PF004,Retirement 2045,Target Date,AC004,Canadian Bonds,Fixed Income,CAD,4589586.204115,0.138592,0.18,-0.041408,0.0,Watch
+2025-12-31,PF004,Retirement 2045,Target Date,AC005,Global Bonds,Fixed Income,USD,3375142.911779,0.101919,0.08,0.021919,3375142.911779,Within range
+2025-12-31,PF004,Retirement 2045,Target Date,AC006,Real Assets,Alternatives,CAD,1706510.936301,0.051532,0.06,-0.008468,0.0,Within range
+2025-12-31,PF004,Retirement 2045,Target Date,AC007,Cash,Cash,CAD,280363.348867,0.008466,0.03,-0.021534,0.0,Within range
+2025-12-31,PF004,Retirement 2045,Target Date,AC008,European Equity,Equity,EUR,2173660.892855,0.065638,0.03,0.035638,2173660.892855,Watch

@@ -1,0 +1,7 @@
+category_id,category_name,category_group
+CAT001,Prescription Drugs,Health
+CAT002,Paramedical,Health
+CAT003,Dental Basic,Dental
+CAT004,Dental Major,Dental
+CAT005,Short Term Disability,Disability
+CAT006,Life Claim,Life

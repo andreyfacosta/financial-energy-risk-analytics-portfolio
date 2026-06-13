@@ -1,0 +1,125 @@
+as_of_date,scenario,portfolio_id,portfolio_name,asset_class_id,asset_class_name,shock_pct,stress_impact_cad
+2025-12-31,Equity drawdown 15pct,PF001,Conservative Income,AC001,Canadian Equity,-0.15,-472865.17
+2025-12-31,Equity drawdown 15pct,PF001,Conservative Income,AC002,US Equity,-0.15,-371273.02
+2025-12-31,Equity drawdown 15pct,PF001,Conservative Income,AC003,Global Equity,-0.15,-295590.37
+2025-12-31,Equity drawdown 15pct,PF001,Conservative Income,AC004,Canadian Bonds,0.02,150595.29
+2025-12-31,Equity drawdown 15pct,PF001,Conservative Income,AC005,Global Bonds,0.02,88285.15
+2025-12-31,Equity drawdown 15pct,PF001,Conservative Income,AC006,Real Assets,-0.05,-36069.17
+2025-12-31,Equity drawdown 15pct,PF001,Conservative Income,AC007,Cash,0.0,0.0
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC001,Canadian Equity,-0.15,-1593762.33
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC002,US Equity,-0.15,-1821992.54
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC003,Global Equity,-0.15,-1079425.46
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC004,Canadian Bonds,0.02,182543.6
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC005,Global Bonds,0.02,97634.99
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC006,Real Assets,-0.05,-107038.08
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC007,Cash,0.0,0.0
+2025-12-31,Equity drawdown 15pct,PF002,Balanced Growth,AC008,European Equity,-0.15,-334596.01
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC001,Canadian Equity,-0.15,-979216.42
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC002,US Equity,-0.15,-1148177.99
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC003,Global Equity,-0.15,-1033234.92
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC004,Canadian Bonds,0.02,45536.66
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC005,Global Bonds,0.02,30815.96
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC006,Real Assets,-0.05,-64606.52
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC007,Cash,0.0,0.0
+2025-12-31,Equity drawdown 15pct,PF003,Growth Plus,AC008,European Equity,-0.15,-168917.04
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC001,Canadian Equity,-0.15,-1032380.47
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC002,US Equity,-0.15,-1132644.7
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC003,Global Equity,-0.15,-983562.13
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC004,Canadian Bonds,0.02,91791.72
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC005,Global Bonds,0.02,67502.86
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC006,Real Assets,-0.05,-85325.55
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC007,Cash,0.0,0.0
+2025-12-31,Equity drawdown 15pct,PF004,Retirement 2045,AC008,European Equity,-0.15,-326049.13
+2025-12-31,Rates up 100 bps,PF001,Conservative Income,AC001,Canadian Equity,-0.03,-94573.03
+2025-12-31,Rates up 100 bps,PF001,Conservative Income,AC002,US Equity,-0.03,-74254.6
+2025-12-31,Rates up 100 bps,PF001,Conservative Income,AC003,Global Equity,-0.03,-59118.07
+2025-12-31,Rates up 100 bps,PF001,Conservative Income,AC004,Canadian Bonds,-0.06,-451785.88
+2025-12-31,Rates up 100 bps,PF001,Conservative Income,AC005,Global Bonds,-0.06,-264855.46
+2025-12-31,Rates up 100 bps,PF001,Conservative Income,AC006,Real Assets,-0.02,-14427.67
+2025-12-31,Rates up 100 bps,PF001,Conservative Income,AC007,Cash,0.0,0.0
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC001,Canadian Equity,-0.03,-318752.47
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC002,US Equity,-0.03,-364398.51
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC003,Global Equity,-0.03,-215885.09
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC004,Canadian Bonds,-0.06,-547630.81
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC005,Global Bonds,-0.06,-292904.97
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC006,Real Assets,-0.02,-42815.23
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC007,Cash,0.0,0.0
+2025-12-31,Rates up 100 bps,PF002,Balanced Growth,AC008,European Equity,-0.03,-66919.2
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC001,Canadian Equity,-0.03,-195843.28
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC002,US Equity,-0.03,-229635.6
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC003,Global Equity,-0.03,-206646.98
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC004,Canadian Bonds,-0.06,-136609.97
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC005,Global Bonds,-0.06,-92447.89
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC006,Real Assets,-0.02,-25842.61
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC007,Cash,0.0,0.0
+2025-12-31,Rates up 100 bps,PF003,Growth Plus,AC008,European Equity,-0.03,-33783.41
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC001,Canadian Equity,-0.03,-206476.09
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC002,US Equity,-0.03,-226528.94
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC003,Global Equity,-0.03,-196712.43
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC004,Canadian Bonds,-0.06,-275375.17
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC005,Global Bonds,-0.06,-202508.57
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC006,Real Assets,-0.02,-34130.22
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC007,Cash,0.0,0.0
+2025-12-31,Rates up 100 bps,PF004,Retirement 2045,AC008,European Equity,-0.03,-65209.83
+2025-12-31,CAD strengthens 5pct,PF001,Conservative Income,AC001,Canadian Equity,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF001,Conservative Income,AC002,US Equity,-0.05,-123757.67
+2025-12-31,CAD strengthens 5pct,PF001,Conservative Income,AC003,Global Equity,-0.05,-98530.12
+2025-12-31,CAD strengthens 5pct,PF001,Conservative Income,AC004,Canadian Bonds,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF001,Conservative Income,AC005,Global Bonds,-0.05,-220712.89
+2025-12-31,CAD strengthens 5pct,PF001,Conservative Income,AC006,Real Assets,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF001,Conservative Income,AC007,Cash,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC001,Canadian Equity,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC002,US Equity,-0.05,-607330.85
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC003,Global Equity,-0.05,-359808.49
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC004,Canadian Bonds,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC005,Global Bonds,-0.05,-244087.48
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC006,Real Assets,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC007,Cash,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF002,Balanced Growth,AC008,European Equity,-0.05,-111532.0
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC001,Canadian Equity,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC002,US Equity,-0.05,-382726.0
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC003,Global Equity,-0.05,-344411.64
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC004,Canadian Bonds,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC005,Global Bonds,-0.05,-77039.91
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC006,Real Assets,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC007,Cash,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF003,Growth Plus,AC008,European Equity,-0.05,-56305.68
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC001,Canadian Equity,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC002,US Equity,-0.05,-377548.23
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC003,Global Equity,-0.05,-327854.04
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC004,Canadian Bonds,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC005,Global Bonds,-0.05,-168757.15
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC006,Real Assets,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC007,Cash,0.0,0.0
+2025-12-31,CAD strengthens 5pct,PF004,Retirement 2045,AC008,European Equity,-0.05,-108683.04
+2025-12-31,Balanced recovery 8pct,PF001,Conservative Income,AC001,Canadian Equity,0.08,252194.76
+2025-12-31,Balanced recovery 8pct,PF001,Conservative Income,AC002,US Equity,0.08,198012.28
+2025-12-31,Balanced recovery 8pct,PF001,Conservative Income,AC003,Global Equity,0.08,157648.2
+2025-12-31,Balanced recovery 8pct,PF001,Conservative Income,AC004,Canadian Bonds,0.03,225892.94
+2025-12-31,Balanced recovery 8pct,PF001,Conservative Income,AC005,Global Bonds,0.03,132427.73
+2025-12-31,Balanced recovery 8pct,PF001,Conservative Income,AC006,Real Assets,0.04,28855.34
+2025-12-31,Balanced recovery 8pct,PF001,Conservative Income,AC007,Cash,0.0,0.0
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC001,Canadian Equity,0.08,850006.58
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC002,US Equity,0.08,971729.35
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC003,Global Equity,0.08,575693.58
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC004,Canadian Bonds,0.03,273815.41
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC005,Global Bonds,0.03,146452.49
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC006,Real Assets,0.04,85630.46
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC007,Cash,0.0,0.0
+2025-12-31,Balanced recovery 8pct,PF002,Balanced Growth,AC008,European Equity,0.08,178451.2
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC001,Canadian Equity,0.08,522248.76
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC002,US Equity,0.08,612361.6
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC003,Global Equity,0.08,551058.62
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC004,Canadian Bonds,0.03,68304.99
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC005,Global Bonds,0.03,46223.94
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC006,Real Assets,0.04,51685.22
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC007,Cash,0.0,0.0
+2025-12-31,Balanced recovery 8pct,PF003,Growth Plus,AC008,European Equity,0.08,90089.09
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC001,Canadian Equity,0.08,550602.92
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC002,US Equity,0.08,604077.17
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC003,Global Equity,0.08,524566.47
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC004,Canadian Bonds,0.03,137687.59
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC005,Global Bonds,0.03,101254.29
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC006,Real Assets,0.04,68260.44
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC007,Cash,0.0,0.0
+2025-12-31,Balanced recovery 8pct,PF004,Retirement 2045,AC008,European Equity,0.08,173892.87

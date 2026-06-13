@@ -1,0 +1,7 @@
+category_id,category_name,category_group,claim_count,paid_claims_cad,incurred_claims_cad,claims_severity_cad
+CAT001,Prescription Drugs,Health,2454,343157.19,381445.85,155.4384
+CAT002,Paramedical,Health,2379,224144.05,248962.37,104.65
+CAT003,Dental Basic,Dental,1987,358910.37,398158.05,200.3815
+CAT004,Dental Major,Dental,2009,1690061.36,1877452.25,934.5208
+CAT005,Short Term Disability,Disability,193,476099.5,527094.12,2731.0576
+CAT006,Life Claim,Life,32,239281.95,264451.55,8264.1109

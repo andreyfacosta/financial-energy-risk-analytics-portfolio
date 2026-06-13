@@ -1,37 +1,40 @@
 # Financial & Energy Risk Analytics Portfolio
 
-Portfolio of financial, commodity, energy, and operations risk analytics projects using Python, SQL, pandas, and Power BI.
+Power BI-ready portfolio of financial, commodity, energy, insurance, pension, and operations risk analytics projects using Python, SQL, pandas, SQLite, and DAX documentation.
 
-Built for remote Canada/global roles where financial risk, BI reporting, commodity exposure, insurance analytics, investment risk, and operations data analysis overlap.
+Built for remote Canada/global roles where financial risk, BI reporting, commodity exposure, energy operations, insurance analytics, and investment risk overlap.
 
 ## Portfolio Status
 
-| Project | Status | Notes |
+| Project | Status | Best target roles |
 |---|---|---|
-| [01 Commodity Hedge Risk Dashboard](01_commodity_hedge_risk/README.md) | Recruiter-ready v1, screenshots pending | Python, SQL, SQLite, synthetic CSVs, Power BI guide, DAX, dashboard docs |
-| [02 Drilling Project Controls](02_drilling_project_controls/README.md) | Scaffolded | Not built yet |
-| [03 Insurance Loss Ratio](03_insurance_loss_ratio/README.md) | Scaffolded | Not built yet |
-| [04 Pension Investment Risk](04_pension_investment_risk/README.md) | Scaffolded | Not built yet |
+| [01 Commodity Hedge Risk Dashboard](01_commodity_hedge_risk/README.md) | Power BI-ready, screenshots pending | Commodity Risk Analyst, Risk Reporting Analyst, Financial Data Analyst |
+| [02 Drilling Project Controls Dashboard](02_drilling_project_controls/README.md) | Power BI-ready, screenshots pending | Energy Data Analyst, Project Controls Analyst, Operations Data Analyst |
+| [03 Insurance Loss Ratio Dashboard](03_insurance_loss_ratio/README.md) | Power BI-ready, screenshots pending | Insurance Data Analyst, Financial Data Analyst, BI Analyst - Finance |
+| [04 Pension Investment Risk Dashboard](04_pension_investment_risk/README.md) | Power BI-ready, screenshots pending | Investment Risk Analyst, Pension Analyst, Treasury/Risk Reporting Analyst |
 
-## Featured Project: Commodity Hedge Risk Dashboard
+## Suggested Recruiter Path
 
-The first project models a synthetic Canadian grain company that buys and sells physical grain and hedges price exposure with futures contracts.
+Start with Project 1, then Project 2:
 
-It includes:
+1. [Commodity Hedge Risk Dashboard](01_commodity_hedge_risk/README.md) shows financial and commodity risk reporting.
+2. [Drilling Project Controls Dashboard](02_drilling_project_controls/README.md) connects energy operations, cost control, schedule risk, and executive BI.
+3. [Insurance Loss Ratio Dashboard](03_insurance_loss_ratio/README.md) adds Canadian finance/insurance relevance.
+4. [Pension Investment Risk Dashboard](04_pension_investment_risk/README.md) adds investment and retirement risk analytics.
 
-- Synthetic data generation with Python and pandas.
-- CSV datasets for Power BI import.
-- SQLite schema, analytical tables, and SQL views.
-- Risk metrics for physical exposure, futures exposure, net open exposure, hedge ratio, P&L, basis risk, margin, VaR approximation, stress testing, and counterparty exposure.
-- Power BI build guide and DAX measures.
-- Recruiter-facing README, demo script, LinkedIn drafts, and resume bullets.
+## Power BI Build Guides
 
-Start here:
+- [Project 1 Power BI Build Guide](01_commodity_hedge_risk/powerbi/powerbi_build_guide.md)
+- [Project 2 Power BI Build Guide](02_drilling_project_controls/powerbi/powerbi_build_guide.md)
+- [Project 3 Power BI Build Guide](03_insurance_loss_ratio/powerbi/powerbi_build_guide.md)
+- [Project 4 Power BI Build Guide](04_pension_investment_risk/powerbi/powerbi_build_guide.md)
 
-- [Project README](01_commodity_hedge_risk/README.md)
-- [Power BI Build Guide](01_commodity_hedge_risk/powerbi/powerbi_build_guide.md)
-- [DAX Measures](01_commodity_hedge_risk/powerbi/dax_measures.md)
-- [Demo Script](01_commodity_hedge_risk/docs/demo_script.md)
+## Demo Scripts
+
+- [Commodity Hedge Risk Demo](01_commodity_hedge_risk/docs/demo_script.md)
+- [Drilling Project Controls Demo](02_drilling_project_controls/docs/demo_script.md)
+- [Insurance Loss Ratio Demo](03_insurance_loss_ratio/docs/demo_script.md)
+- [Pension Investment Risk Demo](04_pension_investment_risk/docs/demo_script.md)
 
 ## Target Roles
 
@@ -47,41 +50,47 @@ Start here:
 - FP&A Analyst with Power BI
 - Data Analyst SQL / Power BI / Python
 
-## Tools
+## Tools and Skills Demonstrated
 
-- Python 3
-- pandas
-- numpy
-- SQLite
-- SQL
-- Power BI Desktop
-- DAX
-- CSV-based analytics workflows
-- Git and GitHub
+- Python 3, pandas, numpy, pathlib
+- SQL and SQLite data modeling
+- CSV-based analytics workflows for Power BI
+- DAX measure planning
+- Financial risk metrics, exposure reporting, P&L, VaR approximation, stress testing
+- Project controls metrics, AFE budget, cost variance, schedule variance, NPT, HSE
+- Insurance metrics, loss ratio, claims frequency, severity, profitability, renewal risk
+- Investment metrics, allocation, returns, benchmark comparison, volatility, drawdown, FX exposure
+- Executive dashboard storytelling and recruiter-facing documentation
 
-## Quick Start
+## How to Reproduce All Projects
 
 ```powershell
 python -m pip install -r requirements.txt
+
 python 01_commodity_hedge_risk/notebooks/01_generate_synthetic_data.py
 python 01_commodity_hedge_risk/notebooks/02_analyze_hedge_risk.py
+
+python 02_drilling_project_controls/notebooks/01_generate_synthetic_data.py
+python 02_drilling_project_controls/notebooks/02_analyze_project_controls.py
+
+python 03_insurance_loss_ratio/notebooks/01_generate_synthetic_data.py
+python 03_insurance_loss_ratio/notebooks/02_analyze_loss_ratio.py
+
+python 04_pension_investment_risk/notebooks/01_generate_synthetic_data.py
+python 04_pension_investment_risk/notebooks/02_analyze_investment_risk.py
 ```
 
-Generated CSV files are stored under:
+After running the scripts, open each Power BI build guide and manually create the `.pbix` dashboards from the generated CSV files.
 
-```text
-01_commodity_hedge_risk/data/
-```
+## Career Assets
 
-## Direct Navigation
-
-- [Target roles](target_roles.md)
-- [Keywords](keywords.md)
-- [Application tracker template](application_tracker_template.csv)
-- [LinkedIn assets](career_assets/linkedin/)
+- [LinkedIn drafts](career_assets/linkedin/)
 - [Resume bullets](career_assets/resumes/)
 - [Recruiter messages](career_assets/recruiter_messages/)
 - [Interview prep](career_assets/interview_prep/)
+- [Application tracker template](application_tracker_template.csv)
+- [Target roles](target_roles.md)
+- [Keywords](keywords.md)
 
 ## Data Notice
 

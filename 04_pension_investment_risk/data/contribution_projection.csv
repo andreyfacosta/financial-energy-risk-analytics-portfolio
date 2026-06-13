@@ -1,0 +1,5 @@
+portfolio_id,portfolio_name,risk_profile,portfolio_value_cad,annual_contribution_cad,avg_age,avg_retirement_age,years_to_retirement,assumed_return_pct,projected_retirement_value_cad
+PF002,Balanced Growth,Balanced,49251969.0716,182763.48,44.7667,64.8,20.0333,0.055,150351974.7196
+PF001,Conservative Income,Conservative,21683426.9745,181218.22,45.7667,64.6667,18.9,0.035,46285472.854
+PF003,Growth Plus,Growth,27586482.9865,191115.08,45.9,64.4667,18.5667,0.07,103743083.2254
+PF004,Retirement 2045,Target Date,33115846.3468,194302.01,46.0667,64.2667,18.2,0.06,101745241.9387

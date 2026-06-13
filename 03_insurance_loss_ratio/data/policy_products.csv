@@ -1,0 +1,6 @@
+product_id,product_name,product_category,coverage_level
+PRD001,Core Health,Health,Core
+PRD002,Enhanced Health,Health,Enhanced
+PRD003,Dental Plus,Dental,Enhanced
+PRD004,Disability Protect,Disability,Core
+PRD005,Life Basic,Life,Core

@@ -1,0 +1,9 @@
+well_id,well_name,basin,region,well_type,target_depth_m,planned_start,planned_end,status
+WELL001,Prairie Dawn 01,Williston,Saskatchewan,Horizontal,3450,2025-01-05,2025-02-15,Complete
+WELL002,Red River 02,Williston,Manitoba,Horizontal,3300,2025-01-18,2025-03-01,Complete
+WELL003,Foothills 03,Deep Basin,Alberta,Directional,4100,2025-02-01,2025-03-20,Complete
+WELL004,Clearwater 04,Clearwater,Alberta,Horizontal,2850,2025-02-18,2025-03-30,Complete
+WELL005,Prairie North 05,Williston,Saskatchewan,Horizontal,3600,2025-03-10,2025-04-25,Complete
+WELL006,Peace River 06,Peace River,Alberta,Directional,2950,2025-04-01,2025-05-10,Complete
+WELL007,Northern Lights 07,Deep Basin,Alberta,Horizontal,4300,2025-04-20,2025-06-05,Complete
+WELL008,Prairie West 08,Williston,Saskatchewan,Horizontal,3750,2025-05-12,2025-06-25,Complete

@@ -1,0 +1,13 @@
+employer_id,employer_name,industry,region_id,employer_size_band
+EMP001,Prairie Manufacturing,Manufacturing,REG001,250-499
+EMP002,Northern Retail Group,Retail,REG002,500-999
+EMP003,West Energy Services,Energy,REG003,100-249
+EMP004,Pacific Logistics,Transportation,REG004,250-499
+EMP005,Lakeview Schools,Education,REG002,1000+
+EMP006,Central Ag Foods,Food processing,REG001,500-999
+EMP007,Atlantic Care Homes,Healthcare,REG005,250-499
+EMP008,Metro Software Co,Technology,REG002,100-249
+EMP009,Foothills Construction,Construction,REG003,100-249
+EMP010,Harbour Hospitality,Hospitality,REG004,250-499
+EMP011,Winnipeg Services,Professional services,REG001,100-249
+EMP012,Capital Distribution,Wholesale,REG002,500-999

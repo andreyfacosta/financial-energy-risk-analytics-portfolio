@@ -1,0 +1,9 @@
+well_id,well_name,basin,region,well_type,contractor_id,contractor_name,rig_id,rig_name,afe_budget_cad,actual_cost_cad,forecast_final_cost_cad,forecast_variance_cad,cost_variance_pct,planned_days,actual_days,schedule_variance_days,cumulative_depth_m,target_depth_m,cost_per_meter_cad,risk_flag
+WELL001,Prairie Dawn 01,Williston,Saskatchewan,Horizontal,CON001,Northstar Drilling Services,RIG001,Rig 12,4216509.87,2564867.25,2564867.25,-1651642.62,-0.3917,42,39,-3.0,3450.01,3450,743.4376,Normal
+WELL002,Red River 02,Williston,Manitoba,Horizontal,CON002,Prairie Directional,RIG002,Rig 18,3815248.57,3023607.88,3023607.88,-791640.69,-0.2075,43,40,-3.0,3300.01,3300,916.242,Normal
+WELL003,Foothills 03,Deep Basin,Alberta,Directional,CON003,Redline Fluids,RIG003,Rig 23,4994935.63,2974827.12,2974827.12,-2020108.51,-0.4044,48,55,7.0,4100.04,4100,725.5605,High
+WELL004,Clearwater 04,Clearwater,Alberta,Horizontal,CON004,Summit Cementing,RIG004,Rig 31,3363264.63,2817663.93,2817663.93,-545600.7,-0.1622,41,38,-3.0,2850.01,2850,988.6505,Normal
+WELL005,Prairie North 05,Williston,Saskatchewan,Horizontal,CON005,FieldSafe Services,RIG005,Rig 44,5266456.28,2766097.61,2766097.61,-2500358.67,-0.4748,47,54,7.0,3600.0,3600,768.3604,High
+WELL006,Peace River 06,Peace River,Alberta,Directional,CON006,Ironhorse Rentals,RIG001,Rig 12,3293996.61,2616832.16,2616849.9014,-677146.7086,-0.2056,40,38,-1.9997,2949.98,2950,887.0678,Normal
+WELL007,Northern Lights 07,Deep Basin,Alberta,Horizontal,CON001,Northstar Drilling Services,RIG002,Rig 18,5120820.87,3312432.0,3312432.0,-1808388.87,-0.3531,47,47,0.0,4300.0,4300,770.333,Medium
+WELL008,Prairie West 08,Williston,Saskatchewan,Horizontal,CON002,Prairie Directional,RIG003,Rig 23,4010562.94,2196831.03,2196831.03,-1813731.91,-0.4522,45,42,-3.0,3750.0,3750,585.8216,Normal

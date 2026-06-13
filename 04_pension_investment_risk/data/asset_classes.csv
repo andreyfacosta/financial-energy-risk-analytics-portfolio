@@ -1,0 +1,9 @@
+asset_class_id,asset_class_name,asset_category,currency,risk_bucket
+AC001,Canadian Equity,Equity,CAD,High
+AC002,US Equity,Equity,USD,High
+AC003,Global Equity,Equity,USD,High
+AC004,Canadian Bonds,Fixed Income,CAD,Low
+AC005,Global Bonds,Fixed Income,USD,Medium
+AC006,Real Assets,Alternatives,CAD,Medium
+AC007,Cash,Cash,CAD,Low
+AC008,European Equity,Equity,EUR,High
