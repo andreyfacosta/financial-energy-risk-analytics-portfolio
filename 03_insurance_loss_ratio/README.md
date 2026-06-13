@@ -25,6 +25,27 @@ A group insurance and benefits finance team needs to monitor whether premium rev
 
 This project creates a synthetic group insurance portfolio with employers, members, products, policies, monthly premiums, claims, categories, and regions. The analysis layer creates monthly loss ratio, profitability, frequency, severity, product mix, renewal risk, and executive summary outputs for Power BI.
 
+## Latest Synthetic Executive Snapshot
+
+Values below are pulled from the generated analytical CSV outputs.
+
+| Metric | Value |
+|---|---:|
+| Earned premium CAD | 15,116,100 |
+| Incurred claims CAD | 3,697,564 |
+| Paid claims CAD | 3,331,654 |
+| Loss ratio | 24.46% |
+| Profitability CAD | 11,418,536 |
+| Claim count | 9,054 |
+| Claims frequency | 5.78% |
+| Claims severity CAD | 408 |
+| High risk employers | 0 |
+| Unprofitable employers | 0 |
+| Highest loss ratio employer | West Energy Services |
+| Highest loss ratio product | Dental Plus |
+
+Interpretation note: this synthetic portfolio is profitable overall and has no high-risk renewal employers under the simplified rules, but it still includes medium-risk watchlist logic and product/employer ranking for dashboard practice.
+
 ## Key Metrics
 
 - Earned premium

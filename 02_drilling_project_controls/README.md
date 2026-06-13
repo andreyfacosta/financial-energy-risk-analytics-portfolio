@@ -27,6 +27,26 @@ The synthetic dataset creates an end-to-end project controls workflow for multip
 
 Use this project to demonstrate energy operations analytics, project controls reporting, cost variance analysis, schedule analysis, and executive dashboard storytelling.
 
+## Latest Synthetic Executive Snapshot
+
+Values below are pulled from the generated analytical CSV outputs.
+
+| Metric | Value |
+|---|---:|
+| Total AFE budget CAD | 34,081,795 |
+| Total actual cost CAD | 22,273,159 |
+| Forecast final cost CAD | 22,273,177 |
+| Forecast variance CAD | -11,808,619 |
+| Average cost variance % | -33.14% |
+| Average NPT % | 13.26% |
+| Total NPT hours | 1,123.80 |
+| HSE incident count | 17 |
+| High risk wells | 2 |
+| Highest risk well example | Foothills 03 |
+| Highest risk contractor example | Redline Fluids |
+
+Interpretation note: this is a synthetic project controls snapshot. Negative forecast variance indicates the simplified forecast is below AFE in this generated dataset; the dashboard still demonstrates variance, utilization, NPT, HSE, and risk-flag logic.
+
 ## Key Metrics
 
 - AFE budget

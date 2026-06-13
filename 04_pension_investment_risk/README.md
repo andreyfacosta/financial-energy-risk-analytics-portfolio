@@ -25,6 +25,25 @@ A pension or retirement investment analytics team needs to monitor whether portf
 
 This project creates synthetic portfolios, members, asset classes, holdings, daily prices, FX rates, contributions, withdrawals, benchmarks, and calendar data. The analysis layer calculates daily returns, allocation drift, drawdown, volatility, FX exposure, contribution projections, stress scenarios, and executive summary KPIs.
 
+## Latest Synthetic Executive Snapshot
+
+Values below are pulled from the generated analytical CSV outputs.
+
+| Metric | Value |
+|---|---:|
+| Total portfolio value CAD | 131,637,725 |
+| Average cumulative return | 1.83% |
+| Average benchmark cumulative return | 18.87% |
+| Latest average active return | -0.57% |
+| Maximum drawdown | -5.36% |
+| Average annualized volatility | 6.55% |
+| FX exposure CAD | 72,181,704 |
+| Annual contribution flow CAD | 749,399 |
+| Worst stress scenario impact CAD | -12,312,021 |
+| Allocation drift flags | 6 |
+
+Interpretation note: this synthetic investment dataset is demonstration-grade. The benchmark and return assumptions are simplified and should be used for dashboard practice, not investment advice or production performance attribution.
+
 ## Key Metrics
 
 - Asset allocation %

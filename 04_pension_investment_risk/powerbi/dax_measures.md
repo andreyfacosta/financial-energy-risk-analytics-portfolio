@@ -46,14 +46,51 @@ AVERAGE ( portfolio_daily_returns[active_return] )
 Market Value CAD =
 SUM ( allocation_summary[market_value_cad] )
 
-Allocation % =
-SUM ( allocation_summary[allocation_pct] )
+Selected Allocation % =
+DIVIDE (
+    [Market Value CAD],
+    CALCULATE (
+        [Market Value CAD],
+        ALLSELECTED ( allocation_summary )
+    )
+)
+
+Portfolio Allocation % =
+DIVIDE (
+    [Market Value CAD],
+    CALCULATE (
+        [Market Value CAD],
+        ALLEXCEPT (
+            allocation_summary,
+            allocation_summary[portfolio_id],
+            allocation_summary[portfolio_name]
+        )
+    )
+)
 
 Target Allocation % =
-SUM ( allocation_summary[target_allocation_pct] )
+AVERAGE ( allocation_summary[target_allocation_pct] )
 
-Allocation Drift % =
-SUM ( allocation_summary[allocation_drift_pct] )
+Weighted Target Allocation % =
+DIVIDE (
+    SUMX (
+        allocation_summary,
+        allocation_summary[target_allocation_pct] * allocation_summary[market_value_cad]
+    ),
+    [Market Value CAD]
+)
+
+Portfolio Allocation Drift % =
+[Portfolio Allocation %] - [Weighted Target Allocation %]
+
+Selected Allocation Drift % =
+[Selected Allocation %] - [Weighted Target Allocation %]
+
+Absolute Allocation Drift % =
+SUMX (
+    allocation_summary,
+    ABS ( allocation_summary[allocation_drift_pct] )
+)
 
 Maximum Drawdown % =
 MIN ( drawdown_summary[max_drawdown_pct] )
@@ -107,3 +144,7 @@ MINX (
 - `Latest Portfolio Value CAD` should reconcile to `executive_investment_summary.csv`.
 - `Allocation Drift Flag Count` should match non-within-range rows in `allocation_summary.csv`.
 - Use `portfolio_daily_returns` for return trends and `allocation_summary` for latest allocation visuals.
+- Do not use summed allocation percentages across multiple portfolios; percentages are only directly interpretable inside a single portfolio context.
+- Use `Portfolio Allocation %` and `Portfolio Allocation Drift %` when a visual is filtered to one portfolio or has portfolio on the axis.
+- Use `Selected Allocation %` for all-portfolio asset allocation views; it weights by market value over the selected portfolio universe.
+- `Weighted Target Allocation %` is market-value weighted and safer than summing target percentages.

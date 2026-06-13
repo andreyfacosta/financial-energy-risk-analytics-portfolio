@@ -24,10 +24,34 @@ Daily Actual Cost CAD =
 SUM ( daily_project_metrics[actual_cost_cad] )
 
 Cumulative Actual Cost CAD =
-MAX ( daily_project_metrics[cumulative_actual_cost_cad] )
+SUMX (
+    VALUES ( daily_project_metrics[well_id] ),
+    VAR LatestWellDate =
+        CALCULATE ( MAX ( daily_project_metrics[date] ) )
+    RETURN
+        CALCULATE (
+            MAX ( daily_project_metrics[cumulative_actual_cost_cad] ),
+            daily_project_metrics[date] = LatestWellDate
+        )
+)
+
+Latest Cumulative Actual Cost CAD =
+[Cumulative Actual Cost CAD]
 
 Forecast Final Cost CAD =
 SUM ( well_performance_summary[forecast_final_cost_cad] )
+
+Latest Forecast Final Cost CAD =
+SUMX (
+    VALUES ( daily_project_metrics[well_id] ),
+    VAR LatestWellDate =
+        CALCULATE ( MAX ( daily_project_metrics[date] ) )
+    RETURN
+        CALCULATE (
+            MAX ( daily_project_metrics[forecast_final_cost_cad] ),
+            daily_project_metrics[date] = LatestWellDate
+        )
+)
 
 Forecast Variance CAD =
 SUM ( well_performance_summary[forecast_variance_cad] )
@@ -120,3 +144,6 @@ SUM ( contractor_performance[npt_hours] )
 - `HSE Incident Count` should reconcile to `hse_summary.csv`.
 - `NPT Hours` should reconcile to `npt_summary.csv`.
 - Use `well_performance_summary` for final well-level KPI cards and `daily_project_metrics` for trends.
+- Do not use a simple `MAX ( daily_project_metrics[cumulative_actual_cost_cad] )` for portfolio-level cards; it returns only the largest single-well cumulative cost, not the sum across wells.
+- `Cumulative Actual Cost CAD` and `Latest Forecast Final Cost CAD` intentionally iterate by `well_id` and pull each well's latest available daily value before summing.
+- For date-axis trend visuals, use `Daily Actual Cost CAD`, `NPT Hours`, `Rig Utilization %`, and other daily measures from `daily_project_metrics`.

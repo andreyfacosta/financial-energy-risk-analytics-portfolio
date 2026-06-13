@@ -23,10 +23,22 @@ Incurred Claims CAD =
 SUM ( monthly_loss_ratio[incurred_claims_cad] )
 
 Profitability CAD =
-SUM ( monthly_loss_ratio[profitability_cad] )
+[Earned Premium CAD] - [Incurred Claims CAD]
 
 Loss Ratio =
 DIVIDE ( [Incurred Claims CAD], [Earned Premium CAD] )
+
+Selected Loss Ratio =
+DIVIDE (
+    SUM ( monthly_loss_ratio[incurred_claims_cad] ),
+    SUM ( monthly_loss_ratio[earned_premium_cad] )
+)
+
+Policy Profitability CAD =
+SUM ( policy_profitability[profitability_cad] )
+
+Employer Profitability CAD =
+SUM ( employer_summary[profitability_cad] )
 
 Claim Count =
 SUM ( monthly_loss_ratio[claim_count] )
@@ -76,8 +88,17 @@ CALCULATE (
 ## Product Mix
 
 ```DAX
+Product Mix Earned Premium CAD =
+SUM ( product_mix_summary[earned_premium_cad] )
+
 Premium Mix % =
-SUM ( product_mix_summary[premium_mix_pct] )
+DIVIDE (
+    [Product Mix Earned Premium CAD],
+    CALCULATE (
+        [Product Mix Earned Premium CAD],
+        ALLSELECTED ( product_mix_summary )
+    )
+)
 
 Product Loss Ratio =
 DIVIDE (
@@ -91,3 +112,6 @@ DIVIDE (
 - `Loss Ratio` should reconcile to `executive_insurance_summary.csv`.
 - `High Risk Employers` should match high renewal risk rows in `renewal_risk_flags.csv`.
 - Use `monthly_loss_ratio` for trend visuals and `policy_profitability` for policy-level profitability ranking.
+- Avoid using `SUM ( product_mix_summary[premium_mix_pct] )` in dashboard visuals; summing pre-calculated percentages can produce misleading totals under slicers.
+- `Premium Mix %` recalculates the share from earned premium over the currently selected product mix denominator.
+- `Profitability CAD` is derived from premium minus incurred claims so it stays consistent with slicers and the displayed loss ratio.

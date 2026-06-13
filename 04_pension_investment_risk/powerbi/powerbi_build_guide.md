@@ -75,8 +75,8 @@ Create a `Measures` table and copy measures from `powerbi/dax_measures.md`.
 
 ### Asset Allocation
 
-- Stacked bar: allocation % by asset class and portfolio.
-- Matrix: asset class, market value, allocation %, target allocation %, drift %.
+- Stacked bar: `Portfolio Allocation %` by asset class and portfolio.
+- Matrix: asset class, market value, `Portfolio Allocation %`, `Weighted Target Allocation %`, `Portfolio Allocation Drift %`.
 - Conditional formatting: drift above 3 percent amber, above 5 percent red.
 
 ### Returns vs Benchmark

@@ -1,6 +1,6 @@
 # Financial & Energy Risk Analytics Portfolio
 
-Power BI-ready portfolio of financial, commodity, energy, insurance, pension, and operations risk analytics projects using Python, SQL, pandas, SQLite, and DAX documentation.
+Power BI-ready portfolio of financial, commodity, energy, insurance, pension, and operations risk analytics projects using Python, SQL, pandas, SQLite, and DAX documentation. The `.pbix` reports and screenshots are still manual next steps.
 
 Built for remote Canada/global roles where financial risk, BI reporting, commodity exposure, energy operations, insurance analytics, and investment risk overlap.
 
@@ -21,6 +21,8 @@ Start with Project 1, then Project 2:
 2. [Drilling Project Controls Dashboard](02_drilling_project_controls/README.md) connects energy operations, cost control, schedule risk, and executive BI.
 3. [Insurance Loss Ratio Dashboard](03_insurance_loss_ratio/README.md) adds Canadian finance/insurance relevance.
 4. [Pension Investment Risk Dashboard](04_pension_investment_risk/README.md) adds investment and retirement risk analytics.
+
+Recruiter note: this is a Power BI-ready portfolio. The data, scripts, SQL, DAX documentation, and build guides are complete, but the Power BI Desktop reports and screenshots still need to be created manually.
 
 ## Power BI Build Guides
 
@@ -94,4 +96,4 @@ After running the scripts, open each Power BI build guide and manually create th
 
 ## Data Notice
 
-All datasets are synthetic and realistic by design. No confidential employer data, credentials, paid APIs, or private information are used.
+All datasets are synthetic and realistic by design. No confidential employer data, credentials, paid APIs, or private information are used. Metrics are demonstration-grade portfolio examples, not production risk, actuarial, project controls, or investment systems.
