@@ -1,0 +1,11 @@
+counterparty_id,counterparty_name,counterparty_type,region,credit_rating,credit_limit_cad,exposure_cad,credit_utilization_pct,gross_quantity_mt,open_transactions,risk_flag
+CP003,Pacific Export Terminal,Exporter,British Columbia,A,6000000,5282255.2,0.88,13338.0,3,Watch list
+CP005,Lakehead Grain Buyers,Processor,Ontario,BB,2200000,3504258.15,1.59,7909.0,3,Limit pressure
+CP002,Northern Milling Co,Processor,Ontario,BBB,3250000,2695741.33,0.83,10538.0,3,Watch list
+CP007,Alberta BioProducts,Processor,Alberta,A,5200000,2571170.88,0.49,6096.0,1,Within limit
+CP004,SaskAgri Trading,Merchant,Saskatchewan,BBB,3800000,2198109.27,0.58,10923.0,3,Within limit
+CP008,Great Lakes Exporters,Exporter,Ontario,BBB,4100000,929239.9,0.23,2845.0,2,Within limit
+CP009,Vancouver Crush Partners,Processor,British Columbia,A,5600000,746496.0,0.13,2560.0,1,Within limit
+CP001,Prairie Elevators Ltd,Producer Network,Manitoba,A,4500000,429712.76,0.1,11234.0,2,Within limit
+CP006,Red River Feed Group,Feedlot,Manitoba,BBB,2800000,210080.0,0.08,400.0,1,Within limit
+CP010,Central Prairie Farms,Producer Network,Saskatchewan,BB,2000000,50076.36,0.03,7119.0,3,Within limit

@@ -1,0 +1,2 @@
+company,role,location,remote_policy,job_link,status,date_identified,date_applied,resume_version,portfolio_project_used,follow_up_date,contact_name,contact_channel,notes
+Example Grain Co,Commodity Risk Analyst,Canada,Remote,https://example.com,Target identified,2026-06-13,,risk_resume_v1,Commodity Hedge Risk Dashboard,,,

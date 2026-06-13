@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local notebooks and OS artifacts
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary exports
+*.log
+tmp/
+temp/
+
+# Power BI local temp files
+*.pbitmp
+*.pbix~
+
+# Keep generated portfolio CSV and SQLite artifacts tracked for recruiter review.
+!**/data/*.csv
+!**/data/*.sqlite

@@ -1,0 +1,6 @@
+commodity_id,commodity_name,benchmark_contract,contract_size_mt,currency
+WHEAT,Spring Wheat,MGEX Wheat,136.08,USD
+CANOLA,Canola,ICE Canola,20.0,CAD
+CORN,Corn,CBOT Corn,127.01,USD
+SOY,Soybeans,CBOT Soybeans,136.08,USD
+BARLEY,Feed Barley,Synthetic Barley,100.0,CAD

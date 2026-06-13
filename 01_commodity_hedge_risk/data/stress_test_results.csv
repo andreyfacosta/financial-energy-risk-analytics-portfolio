@@ -1,0 +1,26 @@
+as_of_date,scenario,commodity_id,commodity_name,cash_shock_pct,futures_shock_pct,basis_shift_cad_mt,fx_shock_pct,stress_impact_cad
+2025-06-30,Bearish commodity shock,BARLEY,Feed Barley,-0.04,-0.05,0.0,0.0,135495.96
+2025-06-30,Bearish commodity shock,CANOLA,Canola,-0.04,-0.05,0.0,0.0,314767.08
+2025-06-30,Bearish commodity shock,CORN,Corn,-0.04,-0.05,0.0,0.0,224257.22
+2025-06-30,Bearish commodity shock,SOY,Soybeans,-0.04,-0.05,0.0,0.0,-381660.04
+2025-06-30,Bearish commodity shock,WHEAT,Spring Wheat,-0.04,-0.05,0.0,0.0,197575.74
+2025-06-30,Bullish commodity shock,BARLEY,Feed Barley,0.04,0.05,0.0,0.0,-135495.96
+2025-06-30,Bullish commodity shock,CANOLA,Canola,0.04,0.05,0.0,0.0,-314767.08
+2025-06-30,Bullish commodity shock,CORN,Corn,0.04,0.05,0.0,0.0,-224257.22
+2025-06-30,Bullish commodity shock,SOY,Soybeans,0.04,0.05,0.0,0.0,381660.04
+2025-06-30,Bullish commodity shock,WHEAT,Spring Wheat,0.04,0.05,0.0,0.0,-197575.74
+2025-06-30,Basis widens CAD 15/mt,BARLEY,Feed Barley,0.0,0.0,15.0,0.0,68955.0
+2025-06-30,Basis widens CAD 15/mt,CANOLA,Canola,0.0,0.0,15.0,0.0,-40500.0
+2025-06-30,Basis widens CAD 15/mt,CORN,Corn,0.0,0.0,15.0,0.0,11205.0
+2025-06-30,Basis widens CAD 15/mt,SOY,Soybeans,0.0,0.0,15.0,0.0,72000.0
+2025-06-30,Basis widens CAD 15/mt,WHEAT,Spring Wheat,0.0,0.0,15.0,0.0,143400.0
+2025-06-30,Basis narrows CAD 15/mt,BARLEY,Feed Barley,0.0,0.0,-15.0,0.0,-68955.0
+2025-06-30,Basis narrows CAD 15/mt,CANOLA,Canola,0.0,0.0,-15.0,0.0,40500.0
+2025-06-30,Basis narrows CAD 15/mt,CORN,Corn,0.0,0.0,-15.0,0.0,-11205.0
+2025-06-30,Basis narrows CAD 15/mt,SOY,Soybeans,0.0,0.0,-15.0,0.0,-72000.0
+2025-06-30,Basis narrows CAD 15/mt,WHEAT,Spring Wheat,0.0,0.0,-15.0,0.0,-143400.0
+2025-06-30,CAD weakens 5pct,BARLEY,Feed Barley,0.0,0.05,0.0,0.05,-373063.7
+2025-06-30,CAD weakens 5pct,CANOLA,Canola,0.0,0.05,0.0,0.05,-538816.32
+2025-06-30,CAD weakens 5pct,CORN,Corn,0.0,0.05,0.0,0.05,-465967.94
+2025-06-30,CAD weakens 5pct,SOY,Soybeans,0.0,0.05,0.0,0.05,567084.55
+2025-06-30,CAD weakens 5pct,WHEAT,Spring Wheat,0.0,0.05,0.0,0.05,-617991.26

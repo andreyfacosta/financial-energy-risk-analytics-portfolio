@@ -1,0 +1,13 @@
+metric,value,notes
+As of date,2025-06-30,Latest available market date
+Physical exposure CAD,5598513.46,Signed physical exposure
+Futures exposure CAD,-14287678.64,Signed hedge exposure
+Net open exposure CAD,-8689165.18,Physical plus futures exposure
+Weighted hedge ratio,3.0264,Abs futures quantity / abs physical quantity
+Daily P&L CAD,-52622.84,Latest daily mark-to-market approximation
+Cumulative P&L CAD,-1472392.82,Cumulative project-period P&L approximation
+Margin requirement CAD,5373329.2,Estimated active futures initial margin
+VaR 95 CAD,538853.04,Approximate 95pct VaR from rolling P&L volatility
+VaR 99 CAD,760925.79,Approximate 99pct VaR from rolling P&L volatility
+Open risk flags,14,Risk flags on latest date
+Highest counterparty utilization,1.59,Max exposure / credit limit

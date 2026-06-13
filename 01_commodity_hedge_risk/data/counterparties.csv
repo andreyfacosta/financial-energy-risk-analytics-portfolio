@@ -1,0 +1,11 @@
+counterparty_id,counterparty_name,counterparty_type,region,credit_rating,credit_limit_cad
+CP001,Prairie Elevators Ltd,Producer Network,Manitoba,A,4500000
+CP002,Northern Milling Co,Processor,Ontario,BBB,3250000
+CP003,Pacific Export Terminal,Exporter,British Columbia,A,6000000
+CP004,SaskAgri Trading,Merchant,Saskatchewan,BBB,3800000
+CP005,Lakehead Grain Buyers,Processor,Ontario,BB,2200000
+CP006,Red River Feed Group,Feedlot,Manitoba,BBB,2800000
+CP007,Alberta BioProducts,Processor,Alberta,A,5200000
+CP008,Great Lakes Exporters,Exporter,Ontario,BBB,4100000
+CP009,Vancouver Crush Partners,Processor,British Columbia,A,5600000
+CP010,Central Prairie Farms,Producer Network,Saskatchewan,BB,2000000
