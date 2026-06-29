@@ -1,0 +1,23 @@
+{
+  "firm": "SampleFuturesProp",
+  "account_size": 50000,
+  "eval_fee": 55,
+  "reset_fee": 45,
+  "activation_fee": 120,
+  "profit_target": 3000,
+  "daily_loss_limit": 1100,
+  "max_drawdown": 2000,
+  "drawdown_type": "intraday_trailing",
+  "consistency_cap_pct": 0.4,
+  "minimum_trading_days": 5,
+  "minimum_trade_duration_seconds": 10,
+  "max_contracts": 5,
+  "payout_minimum": 1000,
+  "payout_cap": 2000,
+  "payout_frequency_days": 14,
+  "payout_split": 0.9,
+  "withdrawal_resets_drawdown": true,
+  "copy_trading_allowed": false,
+  "news_trading_allowed": false,
+  "prohibited_practices": []
+}
